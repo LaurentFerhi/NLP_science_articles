@@ -1,0 +1,15 @@
+tags,target
+ Physics,0
+ Computer Science,1
+ Mathematics,2
+ Computer Science | Statistics,3
+ Statistics,4
+ Mathematics | Statistics,5
+ Computer Science | Mathematics,6
+ Quantitative Biology,7
+ Computer Science | Physics,8
+ Physics | Mathematics,9
+ Quantitative Finance,10
+ Computer Science | Mathematics | Statistics,11
+ Statistics | Quantitative Biology,12
+ Physics | Statistics,13
